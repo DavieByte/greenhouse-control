@@ -1,5 +1,10 @@
 # greenhouse-control
-This is the code of the environmental control program used in my final year engineering project to design a cost-effective environmental control system for a greenhouse. The following flowchart diagrams below demonstrates the workings of the environmental control algorithm
+This is the code of the environmental control program used in my final year engineering project to design a cost-effective environmental control system for a greenhouse.  
+## Project Poster  
+
+![Poster](https://github.com/DavieByte/greenhouse-control/blob/main/EEE4022S%202022%20POSTER%20MRXDAV015%20DM%20-%20Pead.jpg)
+
+The following flowchart diagrams below demonstrates the workings of the environmental control algorithm
 
 ## Overview of the environmental control algorithm in the program:
 
